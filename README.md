@@ -1,12 +1,12 @@
-Pandas and Hierarchical Indexing
+### Pandas and Hierarchical Indexing ###
 
-Context
+#### Context ####
 
 Pandas' ability to index data offers additional power to the way you work with data. More interesting is pandas' hierarchical indexing feature, it allows you to slice and dice data in convenient ways.
 
 Python and pandas allow you to manage data way more efficiently and effectively than, say, Stata. One important problem with Stata is that you have all your data in one large file. As a result your work-file tends to grow, and thus gets messy.
 
-Efficient data management
+#### Efficient data management ####
 
 Python and pandas store data in various ways, e.g. in lists, tuples, sets, dictionaries, DataFrames and Series. This is super efficient: each data item can be stored in its most efficient form.
 
